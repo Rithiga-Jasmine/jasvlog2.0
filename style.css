@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color:rgba(219, 145, 198, 0);
+}
+
+/* Header */
+header {
+    background-color: #200620;
+    color: white;
+    text-align: center;
+    padding: 30px 10px;
+}
+
+/* Main container */
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+/* Blog post card */
+.post {
+    background-color: rgb(244, 181, 227);
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+/* Post title */
+.post h2 {
+    margin-top: 0;
+    color: #333;
+}
+
+/* Date */
+.date {
+    color: gray;
+    font-size: 14px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #ddd;
+    font-size: 14px;
+}
